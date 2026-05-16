@@ -4,7 +4,7 @@ An ML-powered web app that predicts the best Dream11 fantasy cricket XI
 for an IPL match using historical player performance data.
 
 ## Live Demo
-http://localhost:8501/
+(https://fantasycricket-mgzhy7appwttkjpgwnr9meb.streamlit.app/)
 
 ## Features
 - Predicts fantasy points for each player using rolling 5-match averages
